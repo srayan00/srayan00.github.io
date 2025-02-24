@@ -11,9 +11,44 @@ I am a third year Ph.D. student in Statistics at the University of Michigan advi
 
 My research interests lie in developing AI safety methods for pre-trained machine learning models. I have worked on developing rejectors that identify uncertain parts of a sequence prediction, enabling experts to fill in the gaps. Additionally, I have explored robust decision-making using uncertain machine learning predictions. I am currently working on applying these methods to tackle challenges in protein design to improve the reliability of these predictions. 
 
-Publications
+In Submission
 ======
+* [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459)\
+**Sahana Rayan**, Ambuj Tewari\
+_In Submission, 2025_
 
+* [Conformal Robust Control of Linear Systems](https://arxiv.org/abs/2405.16250)\
+Yash Patel, **Sahana Rayan**, Ambuj Tewari\
+_In Submission, 2025_
+
+Publications
+=====
+* [Conformal Contextual Robust Optimization](https://proceedings.mlr.press/v238/patel24a/patel24a.pdf)\
+Yash Patel, **Sahana Rayan**, Ambuj Tewari\
+_International Conference on Artificial Intelligence and Statistics, 2024_
+
+Talks
+=====
+* Learning to Partially Defer for Sequences\
+_2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences_
+
+Awards
+========
+* PhD Student Service Award, 2024
+* Outstanding Graduate Student Instructor Team Award Honorable Mention, 2023
+
+Teaching
+=======
+* Bayesian Data Analysis (DATASCI 451) - Winter 2025
+* Statistics and Artificial Intelligence (DATASCI 315) - Winter 2023, Fall 2023, Winter 2024, Fall 2024
+* Introduction to Statistics and Data Analysis (STATS 250) - Fall 2022
+
+Outreach
+=====
+* Head Data Manager of [UM FEMMES](https://www.femmes.studentorgs.umich.edu/), 2024-Present
+* Social Chair of PhD Student Council, 2022-Present
+* Recruitment Chair of PhD Student Council, 2025
+* Outreach Chair in [cataLIST](https://maizepages.umich.edu/organization/catalist), 2023
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
