@@ -30,12 +30,17 @@ _International Conference on Artificial Intelligence and Statistics, 2024_
 Talks
 =====
 * Learning to Partially Defer for Sequences\
-_2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences_
+_2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences_\
+[Slides](https://drive.google.com/file/d/1g_zjNmcwLEGaS1d4rUPKosQkRmBb86Pz/view?usp=sharing)
 
 Awards
 ========
-* PhD Student Service Award, 2024
-* Outstanding Graduate Student Instructor Team Award Honorable Mention, 2023
+* Best Oral Presentation\
+_2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences_
+* PhD Student Service Award, 2024\
+_Department of Statistics_
+* Outstanding Graduate Student Instructor Team Award Honorable Mention, 2023\
+_Department of Statistics_
 
 Teaching
 =======
@@ -45,7 +50,8 @@ Teaching
 
 Outreach
 =====
-* Head Data Manager of [UM FEMMES](https://www.femmes.studentorgs.umich.edu/), 2024-Present
+* Vice-President of [UM FEMMES](https://www.femmes.studentorgs.umich.edu/), 2025-Present
+* Head Data Manager of [UM FEMMES](https://www.femmes.studentorgs.umich.edu/), 2024-2025
 * Social Chair of PhD Student Council, 2022-Present
 * Recruitment Chair of PhD Student Council, 2025
 * Outreach Chair in [cataLIST](https://maizepages.umich.edu/organization/catalist), 2023
