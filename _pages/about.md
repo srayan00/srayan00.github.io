@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Statistics at the University of Michigan advised by [Ambuj Tewari](https://www.ambujtewari.com/). Prior to attending the University of Michigan, I earned my Bachelor's degree in Computer Science and Applied Statistics from Purdue University, where I worked with [Denny Yu](https://engineering.purdue.edu/YuGroup) on building machine learning models for healthcare ergonomics application. During my undergraduate studies, I was a research fellow at the University of California, Berkeley, where I worked with [Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/index.html) on continual learning algorithms.
+I am a fourth year Ph.D. student in Statistics at the University of Michigan advised by [Ambuj Tewari](https://www.ambujtewari.com/). Prior to attending the University of Michigan, I earned my Bachelor's degree in Computer Science and Applied Statistics from Purdue University, where I worked with [Denny Yu](https://engineering.purdue.edu/YuGroup) on building machine learning models for healthcare ergonomics application. During my undergraduate studies, I was a research fellow at the University of California, Berkeley, where I worked with [Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/index.html) on continual learning algorithms.
 
-My research interests lie in developing AI safety methods for pre-trained machine learning models. I have worked on developing rejectors that identify uncertain parts of a sequence prediction, enabling experts to fill in the gaps. Additionally, I have explored robust decision-making using uncertain machine learning predictions. I am currently working on applying these methods to tackle challenges in protein design to improve the reliability of these predictions. 
+My research interests lie in developing AI safety methods for pre-trained machine learning models. I have worked on developing rejectors that identify uncertain parts of a sequence prediction, enabling experts to fill in the gaps. Additionally, I have explored robust decision-making using uncertain machine learning predictions. I am currently working on applying these methods to tackle challenges in solving PDEs to improve the reliability of these predictions. 
 
 In Submission
 ======
@@ -44,8 +44,8 @@ _Department of Statistics_
 
 Teaching
 =======
+* Statistics and Artificial Intelligence (DATASCI 315) - Winter 2023, Fall 2023, Winter 2024, Fall 2024, Fall 2025
 * Bayesian Data Analysis (DATASCI 451) - Winter 2025
-* Statistics and Artificial Intelligence (DATASCI 315) - Winter 2023, Fall 2023, Winter 2024, Fall 2024
 * Introduction to Statistics and Data Analysis (STATS 250) - Fall 2022
 
 Outreach
