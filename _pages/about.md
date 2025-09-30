@@ -13,6 +13,10 @@ My research interests lie in developing AI safety methods for pre-trained machin
 
 In Submission
 ======
+* [A Greedy PDE Router for Blending Neural Operators and Classical Methods](https://arxiv.org/abs/2509.24814)\
+**Sahana Rayan**, Yash Patel, Ambuj Tewari\
+_In Submission, 2025_
+
 * [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459)\
 **Sahana Rayan**, Ambuj Tewari\
 _In Submission, 2025_
