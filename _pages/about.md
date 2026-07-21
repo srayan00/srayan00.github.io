@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Statistics at the University of Michigan advised by [Ambuj Tewari](https://www.ambujtewari.com/). Prior to attending the University of Michigan, I earned my Bachelor's degree in Computer Science and Applied Statistics from Purdue University, where I worked with [Denny Yu](https://engineering.purdue.edu/YuGroup) on building machine learning models for healthcare ergonomics application. During my undergraduate studies, I was a research fellow at the University of California, Berkeley, where I worked with [Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/index.html) on continual learning algorithms.
+I am a fifth year Ph.D. student in Statistics at the University of Michigan advised by [Ambuj Tewari](https://www.ambujtewari.com/). I am currently a Data Science intern at Waymo, working on evaluation simulation driving. Prior to attending the University of Michigan, I earned my Bachelor's degree in Computer Science and Applied Statistics from Purdue University, where I worked with [Denny Yu](https://engineering.purdue.edu/YuGroup) on building machine learning models for healthcare ergonomics application. During my undergraduate studies, I was a research fellow at the University of California, Berkeley, where I worked with [Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/index.html) on continual learning algorithms.
 
 My research interests lie in developing AI safety methods for pre-trained machine learning models. I have worked on developing rejectors that identify uncertain parts of a sequence prediction, enabling experts to fill in the gaps. Additionally, I have explored robust decision-making using uncertain machine learning predictions. I am currently working on applying these methods to tackle challenges in solving PDEs to improve the reliability of these predictions. 
 
@@ -15,18 +15,19 @@ In Submission
 ======
 * [A Greedy PDE Router for Blending Neural Operators and Classical Methods](https://arxiv.org/abs/2509.24814)\
 **Sahana Rayan**, Yash Patel, Ambuj Tewari\
-_In Submission, 2025_
+_In Submission, 2026_
 
 * [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459)\
 **Sahana Rayan**, Ambuj Tewari\
-_In Submission, 2025_
+_In Submission, 2026_
 
-* [Conformal Robust Control of Linear Systems](https://arxiv.org/abs/2405.16250)\
-Yash Patel, **Sahana Rayan**, Ambuj Tewari\
-_In Submission, 2025_
 
 Publications
 =====
+* [Conformal Robust Control of Linear Systems](https://openreview.net/forum?id=rdsOb7q6mw)\
+Yash Patel, **Sahana Rayan**, Ambuj Tewari\
+_International Conference on Artificial Intelligence and Statistics, 2026_
+
 * [Conformal Contextual Robust Optimization](https://proceedings.mlr.press/v238/patel24a/patel24a.pdf)\
 Yash Patel, **Sahana Rayan**, Ambuj Tewari\
 _International Conference on Artificial Intelligence and Statistics, 2024_
