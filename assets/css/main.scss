@@ -46,8 +46,9 @@
   --global-bg-color: #ffffff;
   --global-text-color: #1b1b1b;
   --global-border-color: #e7e7e7;
-  --global-link-color: #356b9a;
-  --global-link-color-hover: #244f75;
+  --global-link-color: #6f4b7d;
+  --global-link-color-hover: #53385e;
+  --global-link-color-visited: #6f4b7d;
 
   font-family: Georgia, "Times New Roman", serif;
 
@@ -64,15 +65,16 @@
     }
 
     .masthead__menu-item a {
-      color: #171717;
+      color: #6f4b7d;
       font-size: 0.9rem;
-      font-weight: 600;
+      font-weight: 500;
     }
 
     .masthead__menu-item--lg a {
       font-size: 0.95rem;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
+      font-weight: 500;
+      letter-spacing: 0;
+      text-transform: none;
     }
   }
 
@@ -103,6 +105,7 @@
       margin-bottom: 0.35rem;
       color: #171717;
       font-size: 1rem;
+      font-weight: 500;
     }
 
     .author__pronouns {
@@ -124,7 +127,7 @@
     }
 
     .author__urls a {
-      color: #356b9a;
+      color: #6f4b7d;
     }
   }
 
@@ -140,6 +143,7 @@
     margin-bottom: 1.75rem;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2.35rem;
+    font-weight: 500;
     letter-spacing: -0.025em;
   }
 
@@ -164,6 +168,7 @@
       border: 0;
       font-family: Arial, Helvetica, sans-serif;
       font-size: 1.1rem;
+      font-weight: 500;
     }
 
     ul {
@@ -176,10 +181,11 @@
     }
 
     a {
-      color: #356b9a;
+      color: #6f4b7d;
       text-decoration: none;
 
       &:hover {
+        color: #53385e;
         text-decoration: underline;
       }
     }
@@ -187,6 +193,27 @@
     .item-details {
       color: #666;
       font-size: 0.88rem;
+    }
+
+    .research-topic,
+    .publication-title {
+      color: #6f4b7d;
+      font-weight: 600;
+    }
+
+    .publication-link {
+      color: #6f4b7d;
+      font-size: 0.88rem;
+      text-decoration: underline;
+
+      &:hover {
+        color: #53385e;
+        text-decoration: underline;
+      }
+    }
+
+    strong {
+      font-weight: 600;
     }
   }
 
@@ -219,6 +246,12 @@
 
     .page__content {
       max-width: none;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .masthead .visible-links .masthead__menu-item:not(:first-child):not(:last-child) {
+      display: none;
     }
   }
 }

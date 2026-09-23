@@ -14,17 +14,17 @@ My research asks how we can recognize when a model is uncertain or unreliable, a
 
 ## Current research {#research}
 
-- [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459) — selective delegation for long structured outputs
-- **Reasoning Models for Protein Disorder Prediction** — post-training and evaluation of biological reasoning
-- [A Greedy PDE Router](https://arxiv.org/abs/2509.24814) — routing between classical solvers and neural operators
-- **Conformal Prediction for Robust Decision-Making** — uncertainty-aware optimization and control
+- <span class="research-topic">Learning to Partially Defer for Sequences</span> — selective delegation for long structured outputs
+- <span class="research-topic">Reasoning Models for Protein Disorder Prediction</span> — post-training and evaluation of biological reasoning
+- <span class="research-topic">A Greedy PDE Router</span> — routing between classical solvers and neural operators
+- <span class="research-topic">Conformal Prediction for Robust Decision-Making</span> — uncertainty-aware optimization and control
 
 ## Publications {#publications}
 
-- [A Greedy PDE Router for Blending Neural Operators and Classical Methods](https://arxiv.org/abs/2509.24814)<br><span class="item-details">Sahana Rayan, Yash Patel, and Ambuj Tewari · Submitted to ICLR 2027</span>
-- [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459)<br><span class="item-details">Sahana Rayan and Ambuj Tewari · Submitted to TMLR</span>
-- [Conformal Robust Control of Linear Systems](https://arxiv.org/abs/2405.16250)<br><span class="item-details">Yash Patel, Sahana Rayan, and Ambuj Tewari · AISTATS 2026</span>
-- [Conformal Contextual Robust Optimization](https://proceedings.mlr.press/v238/patel24a.html)<br><span class="item-details">Yash Patel, Sahana Rayan, and Ambuj Tewari · AISTATS 2024</span>
+- <span class="publication-title">A Greedy PDE Router for Blending Neural Operators and Classical Methods</span><br><span class="item-details">Sahana Rayan, Yash Patel, and Ambuj Tewari · Submitted to ICLR 2027</span><br><a class="publication-link" href="https://arxiv.org/abs/2509.24814">Link</a>
+- <span class="publication-title">Learning to Partially Defer for Sequences</span><br><span class="item-details">Sahana Rayan and Ambuj Tewari · Submitted to TMLR</span><br><a class="publication-link" href="https://arxiv.org/abs/2502.01459">Link</a>
+- <span class="publication-title">Conformal Robust Control of Linear Systems</span><br><span class="item-details">Yash Patel, Sahana Rayan, and Ambuj Tewari · AISTATS 2026</span><br><a class="publication-link" href="https://arxiv.org/abs/2405.16250">Link</a>
+- <span class="publication-title">Conformal Contextual Robust Optimization</span><br><span class="item-details">Yash Patel, Sahana Rayan, and Ambuj Tewari · AISTATS 2024</span><br><a class="publication-link" href="https://proceedings.mlr.press/v238/patel24a.html">Link</a>
 
 ## Experience {#experience}
 
