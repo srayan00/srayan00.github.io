@@ -201,9 +201,15 @@
     }
 
     .research-topic,
-    .publication-title {
+    .publication-title,
+    .experience-title,
+    .section-item-title {
       color: #6f4b7d;
       font-weight: 500;
+    }
+
+    .section-item-title a {
+      font-weight: inherit;
     }
 
     .publication-link {
