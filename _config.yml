@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Sahana Rayan"
 title_separator          : "-"
 name                     : &name "Sahana Rayan"
-description              : &description "Statistics Ph.D. student @ University of Michigan"
+description              : &description "ML researcher and Statistics Ph.D. candidate at the University of Michigan"
 url                      : https://srayan00.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "srayan00/srayan00.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,11 +25,12 @@ author:
   avatar           : "IMG_4353.png"
   name             : "Sahana Rayan"
   pronouns         : "she/her"  
-  bio              : "Statistics Ph.D. student @ University of Michigan"
+  bio              : "Statistics Ph.D. candidate at the University of Michigan. Expected May 2027."
   location         : "Ann Arbor, MI"
   employer         : 
   uri              : # URL
   email            : "srayan@umich.edu" 
+  resume           : "/files/SahanaRayanResume.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -184,6 +185,25 @@ exclude:
   - README
   - tmp
   - vendor
+  # The public site is intentionally a single homepage plus the résumé PDF.
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - _posts
+  - _drafts
 keep_files:
   - .git
   - .svn
@@ -214,16 +234,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

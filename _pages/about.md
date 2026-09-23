@@ -1,106 +1,56 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
-redirect_from: 
+body_class: "home-profile"
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a fifth year Ph.D. student in Statistics at the University of Michigan advised by [Ambuj Tewari](https://www.ambujtewari.com/). I am currently a Data Science intern at Waymo, working on evaluation simulation driving. Prior to attending the University of Michigan, I earned my Bachelor's degree in Computer Science and Applied Statistics from Purdue University, where I worked with [Denny Yu](https://engineering.purdue.edu/YuGroup) on building machine learning models for healthcare ergonomics application. During my undergraduate studies, I was a research fellow at the University of California, Berkeley, where I worked with [Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/index.html) on continual learning algorithms.
+I am a Ph.D. candidate in Statistics at the University of Michigan, advised by [Ambuj Tewari](https://www.ambujtewari.com/). I develop methods to evaluate and improve the reliability of AI systems.
 
-My research interests lie in developing AI safety methods for pre-trained machine learning models. I have worked on developing rejectors that identify uncertain parts of a sequence prediction, enabling experts to fill in the gaps. Additionally, I have explored robust decision-making using uncertain machine learning predictions. I am currently working on applying these methods to tackle challenges in solving PDEs to improve the reliability of these predictions. 
+My research asks how we can recognize when a model is uncertain or unreliable, and use that information to make better downstream decisions. I have worked on these questions in language modeling, autonomous driving, and scientific machine learning. In 2026, I was a Data Science Research Intern at Waymo.
 
-In Submission
-======
-* [A Greedy PDE Router for Blending Neural Operators and Classical Methods](https://arxiv.org/abs/2509.24814)\
-**Sahana Rayan**, Yash Patel, Ambuj Tewari\
-_In Submission, 2026_
+## Current research {#research}
 
-* [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459)\
-**Sahana Rayan**, Ambuj Tewari\
-_In Submission, 2026_
+- [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459) — selective delegation for long structured outputs
+- **Reasoning Models for Protein Disorder Prediction** — post-training and evaluation of biological reasoning
+- [A Greedy PDE Router](https://arxiv.org/abs/2509.24814) — routing between classical solvers and neural operators
+- **Conformal Prediction for Robust Decision-Making** — uncertainty-aware optimization and control
 
+## Publications {#publications}
 
-Publications
-=====
-* [Conformal Robust Control of Linear Systems](https://openreview.net/forum?id=rdsOb7q6mw)\
-Yash Patel, **Sahana Rayan**, Ambuj Tewari\
-_International Conference on Artificial Intelligence and Statistics, 2026_
+- [A Greedy PDE Router for Blending Neural Operators and Classical Methods](https://arxiv.org/abs/2509.24814)<br><span class="item-details">Sahana Rayan, Yash Patel, and Ambuj Tewari · Submitted to ICLR 2027</span>
+- [Learning to Partially Defer for Sequences](https://arxiv.org/abs/2502.01459)<br><span class="item-details">Sahana Rayan and Ambuj Tewari · Submitted to TMLR</span>
+- [Conformal Robust Control of Linear Systems](https://arxiv.org/abs/2405.16250)<br><span class="item-details">Yash Patel, Sahana Rayan, and Ambuj Tewari · AISTATS 2026</span>
+- [Conformal Contextual Robust Optimization](https://proceedings.mlr.press/v238/patel24a.html)<br><span class="item-details">Yash Patel, Sahana Rayan, and Ambuj Tewari · AISTATS 2024</span>
 
-* [Conformal Contextual Robust Optimization](https://proceedings.mlr.press/v238/patel24a/patel24a.pdf)\
-Yash Patel, **Sahana Rayan**, Ambuj Tewari\
-_International Conference on Artificial Intelligence and Statistics, 2024_
+## Experience {#experience}
 
-Talks
-=====
-* Learning to Partially Defer for Sequences\
-_2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences_\
-[Slides](https://drive.google.com/file/d/1g_zjNmcwLEGaS1d4rUPKosQkRmBb86Pz/view?usp=sharing)
+- **Waymo**, Data Science Research Intern <span class="item-details">(Summer 2026)</span><br>
+Worked on evaluation and sampling methods for autonomous-driving perception analysis.
 
-Awards
-========
-* Best Oral Presentation\
-_2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences_
-* PhD Student Service Award, 2024\
-_Department of Statistics_
-* Outstanding Graduate Student Instructor Team Award Honorable Mention, 2023\
-_Department of Statistics_
+- **University of Michigan**, Doctoral Researcher <span class="item-details">(2022–present)</span><br>
+Research in reliable machine learning, uncertainty quantification, learning to defer, foundation models, and scientific machine learning.
 
-Teaching
-=======
-* Statistics and Artificial Intelligence (DATASCI 315) - Winter 2023, Fall 2023, Winter 2024, Fall 2024, Fall 2025
-* Bayesian Data Analysis (DATASCI 451) - Winter 2025
-* Introduction to Statistics and Data Analysis (STATS 250) - Fall 2022
+- **University of California, Berkeley**, Undergraduate Research Fellow <span class="item-details">(2021–2022)</span><br>
+Worked on replay-based methods for continual learning with Banghua Zhu and Jiantao Jiao.
 
-Outreach
-=====
-* Vice-President of [UM FEMMES](https://www.femmes.studentorgs.umich.edu/), 2025-Present
-* Head Data Manager of [UM FEMMES](https://www.femmes.studentorgs.umich.edu/), 2024-2025
-* Social Chair of PhD Student Council, 2022-Present
-* Recruitment Chair of PhD Student Council, 2025
-* Outreach Chair in [cataLIST](https://maizepages.umich.edu/organization/catalist), 2023
+## Talks and awards {#talks-awards}
 
-<!-- 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+- **Best Oral Presentation**, Michigan Student Symposium for Interdisciplinary Statistical Sciences, 2025
+- **Ph.D. Student Service Award**, University of Michigan Department of Statistics, 2024
+- **Outstanding Graduate Student Instructor Team Award, Honorable Mention**, 2023
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Teaching {#teaching}
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Statistics and Artificial Intelligence** — Winter 2023, Fall 2023, Winter 2024, Fall 2024, and Fall 2025
+- **Bayesian Data Analysis** — Winter 2025
+- **Introduction to Statistics and Data Analysis** — Fall 2022
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Outreach and service {#outreach}
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
--->
+- **[UM FEMMES](https://www.femmes.studentorgs.umich.edu/)**<br><span class="item-details"> President, 2026–present · Vice President, 2025–2026 · Head Data Manager, 2024–2025</span>
+- **Ph.D. Student Council**<br><span class="item-details">Social Chair, 2022–present · Recruitment Chair, 2025</span>
+- **[cataLIST](https://maizepages.umich.edu/organization/catalist)**<br><span class="item-details">Outreach Chair, 2023</span>
